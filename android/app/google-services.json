@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301086131860",
+    "project_id": "mobilprogramlamaproje-48b36",
+    "storage_bucket": "mobilprogramlamaproje-48b36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301086131860:android:cb2f661757f08c97edd681",
+        "android_client_info": {
+          "package_name": "com.samedbatman.mobilproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301086131860-guopf5dhi1ojlo1ojtd7la17aieulrav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaeNiP06aiPn04WIJwFl-G_vOLnUNpxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301086131860-guopf5dhi1ojlo1ojtd7la17aieulrav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
